@@ -17,7 +17,6 @@
             <p>
                 <label for="nama_jurusan">Jurusan :</label>
                 <input type="text" name="nama_jurusan" /> 
-</select></br>
             </p>
             <p>
                 <label for="tahun">Tahun :</label>
